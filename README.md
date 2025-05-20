@@ -15,7 +15,7 @@ This project is part of my DevOps Internship Task 6, where I was asked to deploy
 
 ## 🔗 Live Website
 You can view the live site here:  
-👉 [Click to Visit](https://KALKIESHWAR.github.io/github-static-site/)
+👉 [Click to Visit](https://github.com/BURKA-BHAVYASRI/github-static-site.git)
 
 ---
 
@@ -45,7 +45,7 @@ If you'd like to reuse or learn from this:
 ---
 
 ## 🧑‍🎓 Author
-**[KALKIESHWAR]**  
+**[BHAVYASRI BURKA]**  
 DevOps Internship Trainee
 
 ---
